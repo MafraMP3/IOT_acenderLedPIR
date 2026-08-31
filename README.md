@@ -1,6 +1,5 @@
 # IOT_acenderLedPIR
 
-# IOT_acenderLed# iot-exemplo-repositorio
 
 Discente: Caio Arthur Mafra
 
